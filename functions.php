@@ -160,7 +160,7 @@ function custom_action() {
     'error_message' => []
   );
 
-  $to = 'piotr.obrebowski@gmail.com';
+  $to = 'K.zakrzewski@fcbescola.pl';
 
 
   if (trim($_POST['name']) == '') {
@@ -268,7 +268,7 @@ function custom_action2() {
     'error_message' => []
   );
 
-  $to = 'piotr.obrebowski@gmail.com';
+  $to = 'K.zakrzewski@fcbescola.pl';
 
 
   if (trim($_POST['name']) == '') {
